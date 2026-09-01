@@ -6,16 +6,16 @@ I'm an Electrical & Electronics Engineering student interested in building pract
 
 ## 🛠️ Skills & Technologies
 
-- ⚡ Electrical & Electronics Engineering
-- 🔌 Digital & Power Electronics
-- 🤖 Arduino, ESP32 & IoT
-- 🌐 Computer Networking & Cisco
-- ☁️ Microsoft Azure & Cloud Computing
-- 🐍 Python & Data Analysis
-- 🤖 AI & Machine Learning
-- 💻 HTML, CSS & Web Development
-- 🔧 PCB Design & Electronics Prototyping
-- 🖥️ Linux & Windows Administration
+⚡ Electrical & Electronics Engineering
+🔌 Digital & Power Electronics
+🤖 Arduino, ESP32 & IoT
+🌐 Computer Networking & Cisco
+☁️ Microsoft Azure & Cloud Computing
+🐍 Python & Data Analysis
+🤖 AI & Machine Learning
+💻 HTML, CSS & Web Development
+🔧 PCB Design & Electronics Prototyping
+🖥️ Linux & Windows Administration
 
 ## 🚀 Projects
 
@@ -23,13 +23,13 @@ I use this GitHub to document and showcase my projects, experiments, and learnin
 
 Some areas I'm working on include:
 
-- Smart IoT systems
-- Electronics projects
-- Networking projects
-- Azure Cloud projects
-- AI & Data Analysis
-- Web Development
-- PCB Design
+> Smart IoT systems
+> Electronics projects
+> Networking projects
+> Azure Cloud projects
+> AI & Data Analysis
+> Web Development
+> PCB Design
 
 ## 🎯 Current Goal
 
@@ -37,8 +37,8 @@ To build practical projects, strengthen my engineering and technology skills, an
 
 ## 📫 Connect With Me
 
-- 📍 Kigali, Rwanda
-- 💼 LinkedIn: [www.linkedin.com/in/ange-christella-25a64636]
+> 📍 Kigali, Rwanda
+> 💼 LinkedIn: [www.linkedin.com/in/ange-christella-25a64636]
 
 ---
 
