@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ange Christella 👋
 
-<!--
-**angechristella/angechristella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical & Electronics Engineering Student | IoT | Networking | Cloud | AI & Data Analysis
 
-Here are some ideas to get you started:
+I'm an Electrical & Electronics Engineering student interested in building practical technology solutions and continuously developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- ⚡ Electrical & Electronics Engineering
+- 🔌 Digital & Power Electronics
+- 🤖 Arduino, ESP32 & IoT
+- 🌐 Computer Networking & Cisco
+- ☁️ Microsoft Azure & Cloud Computing
+- 🐍 Python & Data Analysis
+- 🤖 AI & Machine Learning
+- 💻 HTML, CSS & Web Development
+- 🔧 PCB Design & Electronics Prototyping
+- 🖥️ Linux & Windows Administration
+
+## 🚀 Projects
+
+I use this GitHub to document and showcase my projects, experiments, and learning journey.
+
+Some areas I'm working on include:
+
+- Smart IoT systems
+- Electronics projects
+- Networking projects
+- Azure Cloud projects
+- AI & Data Analysis
+- Web Development
+- PCB Design
+
+## 🎯 Current Goal
+
+To build practical projects, strengthen my engineering and technology skills, and develop a strong professional portfolio.
+
+## 📫 Connect With Me
+
+- 📍 Kigali, Rwanda
+- 💼 LinkedIn: [www.linkedin.com/in/ange-christella-25a64636]
+
+---
+
+⭐ Thanks for visiting my profile!
